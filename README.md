@@ -1,0 +1,1 @@
+# solution_sprint_ocr
